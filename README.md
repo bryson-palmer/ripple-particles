@@ -3,4 +3,4 @@ Based on tutorial by Alvan Caleb Arulandu [tutorial](https://www.youtube.com/wat
 
 A 3D Ripple Animation with React and Three.js using react-three/fiber
 
-(https://drive.google.com/file/d/1reX6FyKfrOQzKiSeMMSTetMz5RR1-3yF/preview)
+https://drive.google.com/file/d/1reX6FyKfrOQzKiSeMMSTetMz5RR1-3yF/preview
